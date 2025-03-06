@@ -6,7 +6,6 @@ The Project Management System is a robust and scalable web application designed 
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
 - **Frontend:** Next.js (React-based framework for server-side rendering and static site generation)
 - **Backend:** Node.js with Express (high-performance API)
 - **Database:** PostgreSQL (Relational Database Management System)
